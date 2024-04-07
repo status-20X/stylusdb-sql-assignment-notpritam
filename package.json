@@ -37,6 +37,7 @@
   "keywords": [],
   "author": "Chakshu Gautam",
   "license": "ISC",
+  "type": "module",
   "devDependencies": {
     "jest": "^29.7.0"
   },
